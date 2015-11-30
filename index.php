@@ -34,7 +34,7 @@
     <p>
       <b>Couchsurfing</b><br>
       Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
-      that will let you stay for free. Not for the timid.<br>
+      that will let you stay for free. Not for the timid or faint of heart.<br>
       <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
   </div>
 
