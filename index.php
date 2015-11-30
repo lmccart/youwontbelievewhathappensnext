@@ -30,6 +30,12 @@
       we are seasoned airbnbers.<br>
       <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
     </p>
+
+    <p>
+      <b>Couchsurfing</b><br>
+      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
+      that will let you stay for free. Not for the timid.<br>
+      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
   </div>
 
   <div class='block'>
