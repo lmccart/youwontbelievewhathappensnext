@@ -1,15 +1,22 @@
 $(document).ready(function() {
 
-  var cur = 'home';
-  $('#'+cur).show();
+  var hash = window.location.hash;
+  var cur = hash ? hash.slice(1) : 'home';
+
+
+  $('#section_'+cur).show();
+  $('#go_'+cur).addClass('active');
+
 
   $('.menuitem').click(function() {
-    var id = $(this).attr('id').slice(3);
     $('.active').removeClass('active');
+    $('#section_'+cur).hide();
+    cur = $(this).attr('id').slice(3);
+    console.log(cur);
     $(this).addClass('active');
-    $('#'+cur).hide();
-    $('#'+id).show();
-    cur = id;
+    $('#section_'+cur).show();
+
+    history.pushState({}, '', '#'+cur);
   });
 
 });
