@@ -70,8 +70,8 @@
   <div class='block'>
     <b>FRIDAY</b>
     <p>
-      7am..................... Run the perimeter of Manhattan with Lauren (<a href='http://www.mapmyrun.com/us/manhattan-ny/19-mile-long-run-around-manhattan-route-881386' target='_blank'>19 miles</a>, or less if you like).<br>
-      <span style='color:white'>7am..................... </span>*Get all your sightseeing done in less than half a day!<br><br>
+      <!-- 7am..................... Run the perimeter of Manhattan with Lauren (<a href='http://www.mapmyrun.com/us/manhattan-ny/19-mile-long-run-around-manhattan-route-881386' target='_blank'>19 miles</a>, or less if you like).<br>
+      <span style='color:white'>7am..................... </span>*Get all your sightseeing done in less than half a day!<br><br> -->
       9pm..................... Hanging at some bar (TBD).
     </p>
   </div>
