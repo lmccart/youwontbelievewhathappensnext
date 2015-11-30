@@ -1,6 +1,76 @@
 body {
+  font-family: "futura-pt-1","futura-pt-2";
+  font-size: 15px;
+  margin: 30px;
+}
+
+p {
+  margin: 15px 0;
+}
+
+.nav-tabs > li, .nav-pills > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+   zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
 }
 
 .section {
   display: none;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.block {
+  margin-bottom: 60px;
+}
+
+#menu {
+  margin-bottom: 30px;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: black !important;
+  background: yellow !important;
+  border: none !important;
+  padding: 0 !important;
+  border-radius: 0px !important;
+  cursor: pointer !important;
+  text-decoration: none !important;}
+
+a:active {
+  background: yellow !important;
+}
+
+a:hover {
+  background: yellow !important;
+  color: black !important;
+}
+
+ul {
+  border: none !important;
+}
+
+li {
+  margin: 0 30px;
+  padding: 0 !important;
+  /*border-bottom: 1px dotted #000;*/
+}
+
+li a {
+  background: white !important;
+  padding: 0 5px !important;
+
+}
+
+li.active a {
+  background: yellow !important;
 }

@@ -1,10 +1,90 @@
 <?php include('header.php'); ?>
 
-<div class='section' id='home'>home</div>
+<div class='section' id='home'>
+  <p>
+    Kyle and Lauren are getting married<br>
+    on June 4, 2016 in New York City.
+
+</div>
+
 <div class='section' id='merge'>merge</div>
-<div class='section' id='weddingparty'>weddingparty</div>
-<div class='section' id='information'>information</div>
-<div class='section' id='schedule'>schedule</div>
-<div class='section' id='registry'>registry</div>
+
+<!--<div class='section' id='weddingparty'>weddingparty</div>-->
+
+<div class='section' id='information'>
+
+  <div class='block'>
+    <b>ACCOMMODATIONS</b>
+
+    <p>
+      <b>Marriott Residence Inn Downtown Manhattan</b><br>
+      170 Broadway, New York, NY 10007<br>
+      We have reserved a block of rooms for guests at a rate of $219/night.<br>
+      <a href='http://www.marriott.com/hotels/travel/nycrl-residence-inn-new-york-downtown-manhattan-world-trade-center-area/' target='_blank'>Reserve a room!</a>
+    </p>
+
+    <p>
+      <b>Airbnb</b><br>
+      There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
+      Please feel free to ask us if you want a second opinion on a place you're considering,
+      we are seasoned airbnbers.<br>
+      <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
+    </p>
+  </div>
+
+  <div class='block'>
+    <b>ATTIRE</b>
+    <p>Semiformal attire please.</p>
+  </div>
+
+  <div class='block'>
+    <b>CEREMONY</b>
+    <p>
+      The ceremony will take place at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br>
+      131 E. 10th St, New York, NY 10003<br>
+      An East Village landmark dating back to 1799, St. Mark's Church-in-the-Bowery is hallowed ground for devotees of avant-garde arts and local Episcopalians alike. Isadora Duncan and Martha Graham danced here in the 20s and 30s, and the Danspace Project, founded in 1974, continues that legacy with a full schedule of performances. Literature has been just as revered: The late, great Allen Ginsberg was a recurring participant in the church's resident Poetry Project (a nationally recognized force). Furthermore, St. Mark's has been a happy home for legendary experimental theater auteur Richard Foreman. 
+    </p>
+    <img src='imgs/church.jpg'/>
+  </div>
+
+
+  <div class='block'>
+    <b>RECEPTION</b>
+    <p>
+      The reception will take place at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br>
+      80 Greenwich St, New York, NY 10006<br>
+      3-Legged Dog Media + Theater Group opened the doors of our 3LD Art &amp; Technology Center to the public in 2006 and since then has been producing new experimental work and bringing new audiences to Lower Manhattan.
+    </p>
+    <img src='imgs/3ld.jpg'/>
+  </div>
+
+</div>
+
+<div class='section' id='schedule'>
+  <div class='block'>
+    <b>FRIDAY</b>
+    <p>
+      7am..................... Run the perimeter of Manhattan with Lauren (<a href='http://www.mapmyrun.com/us/manhattan-ny/19-mile-long-run-around-manhattan-route-881386' target='_blank'>19 miles</a>, or less if you like).<br>
+      <span style='color:white'>7am..................... </span>*Get all your sightseeing done in less than half a day!<br><br>
+      9pm..................... Hanging at some bar (TBD).
+    </p>
+  </div>
+
+  <div class='block'>
+    <b>SATURDAY</b>
+    <p>
+      2pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
+      7-11pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
+      11pm..................... After-partying at some bar (TBD).
+    </p>
+  </div>
+
+</div>
+
+<div class='section' id='registry'>
+  <p>
+    Coming soon.........................................................................
+  </p>
+</div>
 
 <?php include('footer.php'); ?>

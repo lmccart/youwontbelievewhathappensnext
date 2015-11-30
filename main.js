@@ -5,8 +5,11 @@ $(document).ready(function() {
 
   $('.menuitem').click(function() {
     var id = $(this).attr('id').slice(3);
-  $('#'+cur).hide();
+    $('.active').removeClass('active');
+    $(this).addClass('active');
+    $('#'+cur).hide();
     $('#'+id).show();
     cur = id;
   });
+
 });
