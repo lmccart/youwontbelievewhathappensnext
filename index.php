@@ -57,7 +57,7 @@
   <div class='block'>
     <b>RECEPTION</b>
     <p>
-      The reception will take place at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br>
+      The reception will take place at <a href='http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br>
       80 Greenwich St, New York, NY 10006<br>
       3-Legged Dog Media + Theater Group opened the doors of our 3LD Art &amp; Technology Center to the public in 2006 and since then has been producing new experimental work and bringing new audiences to Lower Manhattan.
     </p>
