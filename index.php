@@ -3,7 +3,7 @@
 <div class='section' id='section_home'>
   <p>
     Kyle and Lauren are getting married<br>
-    on June 4, 2016 in New York City.
+    on June 4, 2016 in New York, New York.
 
 </div>
 
