@@ -7,7 +7,17 @@
 
 </div>
 
-<div class='section' id='section_merge'>merge</div>
+<div class='section' id='section_merge'>
+  
+    <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
+    <img style='margin-bottom: 45px' src='imgs/forking.PNG'/>
+    <img style='margin-bottom: 45px' src='imgs/issue.PNG'/>
+    <img style='margin-bottom: 25px' src='imgs/readme_update.png'/>
+    <img class='bottom-pad' style='width:49%; float: left' src='imgs/IMG_1382.png'/>
+    <img class='bottom-pad' style='width:49%; float: right' src='imgs/IMG_1383.png'/>
+    <img style='width:49%; margin: 45px 0 45px 25%; text-align; center' src='imgs/IMG_1384.png'/>
+
+</div>
 
 <!--<div class='section' id='weddingparty'>weddingparty</div>-->
 
@@ -70,8 +80,7 @@
   <div class='block'>
     <b>FRIDAY</b>
     <p>
-      7am..................... Run the perimeter of Manhattan with Lauren (<a href='http://www.mapmyrun.com/us/manhattan-ny/19-mile-long-run-around-manhattan-route-881386' target='_blank'>19 miles</a>, or less if you like).<br>
-      <span style='color:white'>7am..................... </span>*Get all your sightseeing done in less than half a day!<br><br>
+      7am..................... Run the Highline with Lauren.<br><br>
       9pm..................... Hanging at some bar (TBD).
     </p>
   </div>

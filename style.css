@@ -8,6 +8,7 @@ p {
   margin: 15px 0;
 }
 
+
 .nav-tabs > li, .nav-pills > li {
   float:none;
   display:inline-block;
@@ -22,6 +23,7 @@ p {
 .section {
   display: none;
   width: 60%;
+  max-width: 800px;
   margin: 0 auto;
 }
 
