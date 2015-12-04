@@ -13,7 +13,7 @@
     was to use github—a tool that we use for tracking versions of code in collaborative software
     projects—to track a romantic relationship. I called it <i>gitogether</i>.</p>
 
-    <p>"That's genius!" he said.<br>"I can't believe nobody has done it yet."
+    <p>"That's so good!" he said.<br>"I can't believe nobody has done it yet."
     I said, so I did.</p>
 
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
