@@ -13,25 +13,25 @@
     was to use github—a tool used for tracking versions of code in collaborative software
     projects—to track a romantic relationship. She called it <i>gitogether</i>.</p>
 
-    <p>"That's so good!" he said.<br>"I can't believe nobody has done it yet."
+    <p>“That's so good!” he said.<br>“I can't believe nobody has done it yet.”
     she said, so she did.<br>So they did.</p>
 
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
     <img class='half border' style='margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
     <img class='border' style='margin-bottom: 25px' src='imgs/forking.PNG'/>
 
-    <p>Sometimes we're asking: what can relationships learn from software development? 
+    <p>“Sometimes we're asking: what can relationships learn from software development? 
     Or, how will the repository be reflected in the relationship? Other times we're 
     asking: what is the most accurate way of recording the natural course of a relationship 
-    within the context of distributed version control systems?
+    within the context of distributed version control systems?”
     </p>
 
     <img class='border' style='margin: 25px 0 45px 0' src='imgs/issue.PNG'/>
     <img src='imgs/readme_update.png'/>
 
-    <p>I like the similarity between what I feel getting into a new relationship with 
+    <p>“I like the similarity between what I feel getting into a new relationship with 
     someone and creating a new repo—a sense that it could be a potentially bad idea
-     that wastes a lot of time but you believe there is some possibility it's worth doing.</p>
+     that wastes a lot of time but you believe there is some possibility it's worth doing.”</p>
 
     <img class='half border' style='margin-top: 25px; float: left' src='imgs/IMG_1382.png'/>
     <img class='half border' style='margin-top: 25px; float: right' src='imgs/IMG_1383.png'/>
