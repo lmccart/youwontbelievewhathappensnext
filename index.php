@@ -48,7 +48,7 @@
     <b>CEREMONY</b>
     <p>
       The ceremony will take place at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br>
-      131 E. 10th St, New York, NY 10003<br>
+      131 E. 10th St, New York, NY 10003<br><br>
       An East Village landmark dating back to 1799, St. Mark's Church-in-the-Bowery is hallowed ground for devotees of avant-garde arts and local Episcopalians alike. Isadora Duncan and Martha Graham danced here in the 20s and 30s, and the Danspace Project, founded in 1974, continues that legacy with a full schedule of performances. Literature has been just as revered: The late, great Allen Ginsberg was a recurring participant in the church's resident Poetry Project (a nationally recognized force). Furthermore, St. Mark's has been a happy home for legendary experimental theater auteur Richard Foreman. 
     </p>
     <img src='imgs/church.jpg'/>
@@ -59,12 +59,12 @@
     <b>RECEPTION</b>
     <p>
       The reception will take place at <a href='http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br>
-      80 Greenwich St, New York, NY 10006<br>
+      80 Greenwich St, New York, NY 10006<br><br>
       3-Legged Dog Media + Theater Group opened the doors of our 3LD Art &amp; Technology Center to the public in 2006 and since then has been producing new experimental work and bringing new audiences to Lower Manhattan.
     </p>
     <img src='imgs/3ld.jpg'/>
   </div>
-  
+
   <div class='block'>
     <b>ACCOMMODATIONS</b>
 
