@@ -14,7 +14,7 @@
     projects—to track a romantic relationship. I called it <i>gitogether</i>.</p>
 
     <p>"That's so good!" he said.<br>"I can't believe nobody has done it yet."
-    I said, so I did.</p>
+    I said, so I did.<br>So we did.</p>
 
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
     <img class='half border' style='margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
