@@ -9,12 +9,12 @@
 
 <div class='section' id='section_merge'>
   
-    <p>Three years ago I mentioned an idea I'd had to Kyle, whom I had just met. The idea
-    was to use github—a tool that we use for tracking versions of code in collaborative software
-    projects—to track a romantic relationship. I called it <i>gitogether</i>.</p>
+    <p>Three years ago Lauren mentioned an idea she'd had to Kyle, whom she had just met. The idea
+    was to use github—a tool used for tracking versions of code in collaborative software
+    projects—to track a romantic relationship. She called it <i>gitogether</i>.</p>
 
     <p>"That's so good!" he said.<br>"I can't believe nobody has done it yet."
-    I said, so I did.<br>So we did.</p>
+    she said, so she did.<br>So they did.</p>
 
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
     <img class='half border' style='margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
