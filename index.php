@@ -16,8 +16,13 @@
     <p>“That's so good!” he said.<br>“I can't believe nobody has done it yet.”
     she said, so she did.<br>So they did.</p>
 
-    <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
-    <img class='half border' style='margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
+    <img src='imgs/readme_init.png'/>
+    
+    <p>“What if we could commit at points that seem stable and good, and revert back if we mess up.
+    Could we make an experimental branch and merge it in only if it works out? Maybe cherry pick patches from
+    the source of someone else's good relationship?”</p>
+
+    <img class='half border' style='margin: 25px 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
     <img class='border' style='margin-bottom: 25px' src='imgs/forking.PNG'/>
 
     <p>“Sometimes we're asking: what can relationships learn from software development? 
