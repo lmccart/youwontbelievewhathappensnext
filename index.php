@@ -110,8 +110,8 @@
   <div class='block'>
     <b>SATURDAY</b>
     <p>
-      2pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
-      7-11pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
+      ~2pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
+      ~7-11pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
       11pm..................... After-partying at some bar (TBD).
     </p>
   </div>
