@@ -9,49 +9,40 @@
 
 <div class='section' id='section_merge'>
   
+    <p>Three years ago I mentioned an idea I'd had to Kyle, whom I had just met. The idea
+    was to use github—a tool that we use for tracking versions of code in collaborative software
+    projects—to track a romantic relationship. I called it <i>gitogether</i>.</p>
+
+    <p>"That's genius!" he said.<br>"I can't believe nobody has done it yet."
+    I said, so I did.</p>
+
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
-    <img style='margin-bottom: 45px' src='imgs/forking.PNG'/>
-    <img style='margin-bottom: 45px' src='imgs/issue.PNG'/>
-    <img style='margin-bottom: 25px' src='imgs/readme_update.png'/>
-    <img class='bottom-pad' style='width:49%; float: left' src='imgs/IMG_1382.png'/>
-    <img class='bottom-pad' style='width:49%; float: right' src='imgs/IMG_1383.png'/>
+    <img style='width:49%; margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
+    <img style='margin-bottom: 25px' src='imgs/forking.PNG'/>
+
+    <p>Sometimes we're asking: what can relationships learn from software development? 
+    Or, how will the repository be reflected in the relationship? Other times we're 
+    asking: what is the most accurate way of recording the natural course of a relationship 
+    within the context of distributed version control systems?
+    </p>
+
+    <img style='margin: 25px 0 45px 0' src='imgs/issue.PNG'/>
+    <img src='imgs/readme_update.png'/>
+
+    <p>I like the similarity between what I feel getting into a new relationship with 
+    someone and creating a new repo—a sense that it could be a potentially bad idea
+     that wastes a lot of time but you believe there is some possibility it's worth doing.</p>
+
+    <img style='margin-top: 25px; width:49%; float: left' src='imgs/IMG_1382.png'/>
+    <img style='margin-top: 25px; width:49%; float: right' src='imgs/IMG_1383.png'/>
     <img style='width:49%; margin: 45px 0 45px 25%; text-align; center' src='imgs/IMG_1384.png'/>
 
+    <div id='ytplayer'></div>
 </div>
 
 <!--<div class='section' id='weddingparty'>weddingparty</div>-->
 
 <div class='section' id='section_info'>
-
-  <div class='block'>
-    <b>ACCOMMODATIONS</b>
-
-    <p>
-      <b>Marriott Residence Inn Downtown Manhattan</b><br>
-      170 Broadway, New York, NY 10007<br>
-      We have reserved a block of rooms for guests at a rate of $219/night.<br>
-      <a href='http://www.marriott.com/hotels/travel/nycrl-residence-inn-new-york-downtown-manhattan-world-trade-center-area/' target='_blank'>Reserve a room!</a>
-    </p>
-
-    <p>
-      <b>Airbnb</b><br>
-      There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
-      Please feel free to ask us if you want a second opinion on a place you're considering,
-      we are seasoned airbnbers.<br>
-      <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
-    </p>
-
-    <p>
-      <b>Couchsurfing</b><br>
-      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
-      that will let you stay for free. Not for the timid or faint of heart.<br>
-      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
-  </div>
-
-  <div class='block'>
-    <b>ATTIRE</b>
-    <p>Semiformal attire please.</p>
-  </div>
 
   <div class='block'>
     <b>CEREMONY</b>
@@ -73,7 +64,38 @@
     </p>
     <img src='imgs/3ld.jpg'/>
   </div>
+  
+  <div class='block'>
+    <b>ACCOMMODATIONS</b>
 
+    <p>Coming soon.........................................................................</p>
+    <!--<p>
+      <b>Marriott Residence Inn Downtown Manhattan</b><br>
+      170 Broadway, New York, NY 10007<br>
+      We have reserved a block of rooms for guests at a rate of $219/night.<br>
+      <a href='http://www.marriott.com/hotels/travel/nycrl-residence-inn-new-york-downtown-manhattan-world-trade-center-area/' target='_blank'>Reserve a room!</a>
+    </p>
+
+    <p>
+      <b>Airbnb</b><br>
+      There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
+      Please feel free to ask us if you want a second opinion on a place you're considering,
+      we are seasoned airbnbers.<br>
+      <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
+    </p>
+
+    <p>
+      <b>Couchsurfing</b><br>
+      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
+      that will let you stay for free. Not for the timid or faint of heart.<br>
+      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
+    </p>-->
+  </div>
+
+  <div class='block'>
+    <b>ATTIRE</b>
+    <p>Semiformal attire please.</p>
+  </div>
 </div>
 
 <div class='section' id='section_schedule'>

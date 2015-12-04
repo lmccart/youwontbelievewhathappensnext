@@ -1,7 +1,7 @@
 body {
   font-family: "futura-pt-1","futura-pt-2";
   font-size: 15px;
-  margin: 30px;
+  margin: 45px 15px;
 }
 
 p {
@@ -32,7 +32,7 @@ p {
 }
 
 #menu {
-  margin-bottom: 30px;
+  margin-bottom: 45px;
 }
 
 img {
