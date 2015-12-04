@@ -39,6 +39,14 @@ img {
   max-width: 100%;
 }
 
+.half {
+  width: 49%;
+}
+
+.border {
+  border: 1px solid #cccccc; 
+}
+
 a {
   color: black !important;
   background: yellow !important;

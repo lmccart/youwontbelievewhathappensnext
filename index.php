@@ -17,8 +17,8 @@
     I said, so I did.</p>
 
     <img style='margin-bottom: 25px' src='imgs/readme_init.png'/>
-    <img style='width:49%; margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
-    <img style='margin-bottom: 25px' src='imgs/forking.PNG'/>
+    <img class='half border' style='margin: 0 0 45px 25%; text-align; center' src='imgs/preface.jpg'/>
+    <img class='border' style='margin-bottom: 25px' src='imgs/forking.PNG'/>
 
     <p>Sometimes we're asking: what can relationships learn from software development? 
     Or, how will the repository be reflected in the relationship? Other times we're 
@@ -26,16 +26,16 @@
     within the context of distributed version control systems?
     </p>
 
-    <img style='margin: 25px 0 45px 0' src='imgs/issue.PNG'/>
+    <img class='border' style='margin: 25px 0 45px 0' src='imgs/issue.PNG'/>
     <img src='imgs/readme_update.png'/>
 
     <p>I like the similarity between what I feel getting into a new relationship with 
     someone and creating a new repo—a sense that it could be a potentially bad idea
      that wastes a lot of time but you believe there is some possibility it's worth doing.</p>
 
-    <img style='margin-top: 25px; width:49%; float: left' src='imgs/IMG_1382.png'/>
-    <img style='margin-top: 25px; width:49%; float: right' src='imgs/IMG_1383.png'/>
-    <img style='width:49%; margin: 45px 0 45px 25%; text-align; center' src='imgs/IMG_1384.png'/>
+    <img class='half border' style='margin-top: 25px; float: left' src='imgs/IMG_1382.png'/>
+    <img class='half border' style='margin-top: 25px; float: right' src='imgs/IMG_1383.png'/>
+    <img class='half border' style='margin: 45px 0 45px 25%; text-align; center' src='imgs/IMG_1384.png'/>
 
     <div id='ytplayer'></div>
 </div>
