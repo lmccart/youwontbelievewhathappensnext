@@ -103,7 +103,7 @@
   <div class='block'>
     <b>FRIDAY</b>
     <p>
-      7am..................... Run the Highline with Lauren.<br><br>
+      7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
       9pm..................... Hanging at some bar (TBD).
     </p>
   </div>
