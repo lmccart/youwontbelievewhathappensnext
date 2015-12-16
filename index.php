@@ -77,7 +77,7 @@
       There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
       Please feel free to ask us if you want a second opinion on a place you're considering,
       we are seasoned airbnbers.<br>
-      <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
+      <a href='https://www.airbnb.com/s/NYC--NY--United-States?guests=2&checkin=06%2F03%2F2016&checkout=06%2F05%2F2016&ss_id=ktqg7mw2&source=bb" target='_blank'>Search for a place to stay.</a>
     </p>
 
   </div>
