@@ -74,6 +74,13 @@
     <b>ACCOMMODATIONS</b>
 
     <p>Coming soon.........................................................................</p>
+    <p>
+      <b>Hilton DoubleTree - Financial District</b><br>
+      8 Stone Street, New York, NY 10004<br>
+      We have reserved a block of rooms for guests at a rate of $199/night.<br>
+      <a href='http://doubletree.hilton.com/en/dt/groups/personalized/N/NYCBPDT-MMW-20160603/index.jhtml?WT.mc_id=POG' target='_blank'>Reserve a room!</a>
+    </p>
+
     <!--<p>
       <b>Marriott Residence Inn Downtown Manhattan</b><br>
       170 Broadway, New York, NY 10007<br>
@@ -82,6 +89,13 @@
     </p>
 
     <p>
+      <b>Couchsurfing</b><br>
+      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
+      that will let you stay for free. Not for the timid or faint of heart.<br>
+      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
+    </p>-->
+    
+    <p>
       <b>Airbnb</b><br>
       There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
       Please feel free to ask us if you want a second opinion on a place you're considering,
@@ -89,12 +103,6 @@
       <a href='https://www.airbnb.com/' target='_blank'>Search for a place to stay.</a>
     </p>
 
-    <p>
-      <b>Couchsurfing</b><br>
-      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
-      that will let you stay for free. Not for the timid or faint of heart.<br>
-      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
-    </p>-->
   </div>
 
   <div class='block'>
