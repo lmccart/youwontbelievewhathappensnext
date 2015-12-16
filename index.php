@@ -73,7 +73,6 @@
   <div class='block'>
     <b>ACCOMMODATIONS</b>
 
-    <p>Coming soon.........................................................................</p>
     <p>
       <b>Hilton DoubleTree - Financial District</b><br>
       8 Stone Street, New York, NY 10004<br>
