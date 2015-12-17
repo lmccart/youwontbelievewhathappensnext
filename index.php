@@ -52,6 +52,13 @@
     <b>ACCOMMODATIONS</b>
 
     <p>
+      <b>Marriott Residence Inn Downtown Manhattan</b><br>
+      170 Broadway, New York, NY 10007<br>
+      We have reserved a block of rooms for guests at a rate of $249/night.<br>
+      <a href='http://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=McCarthy%20and%20McDonald%20Wedding%5ENYCRL%60MMWMMWA%7CMMWMMWC%60249.00-309.00%60USD%60false%604%606/3/16%606/5/16%604/29/16&app=resvlink&stop_mobi=yes' target='_blank'>Reserve a room!</a>
+    </p>
+
+    <p>
       <b>Hilton DoubleTree - Financial District</b><br>
       8 Stone Street, New York, NY 10004<br>
       We have reserved a block of rooms for guests at a rate of $199/night.<br>
@@ -59,13 +66,6 @@
     </p>
 
     <!--<p>
-      <b>Marriott Residence Inn Downtown Manhattan</b><br>
-      170 Broadway, New York, NY 10007<br>
-      We have reserved a block of rooms for guests at a rate of $219/night.<br>
-      <a href='http://www.marriott.com/hotels/travel/nycrl-residence-inn-new-york-downtown-manhattan-world-trade-center-area/' target='_blank'>Reserve a room!</a>
-    </p>
-
-    <p>
       <b>Couchsurfing</b><br>
       Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
       that will let you stay for free. Not for the timid or faint of heart.<br>
