@@ -11,7 +11,7 @@
     <link rel='stylesheet' type='text/css' href='bootstrap.min.css'>
     <script type='text/javascript' src='bootstrap.min.js'></script>
     <!-- typekit -->
-    <script src="https://use.typekit.net/epy8gek.js"></script>
+    <script src="https://use.typekit.net/vuy0rhh.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <!-- youtube -->
     <script src="https://www.youtube.com/player_api"></script>
