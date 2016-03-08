@@ -1,11 +1,34 @@
 <?php include('header.php'); ?>
+<div id='loading'><p>ONE MOMENT PLEASE</p></div>
 
 <div class='section' id='section_home'>
   <p>
     Kyle and Lauren are getting married<br>
     on June 4, 2016 in New York, New York.
+</div>
+
+
+<div class='section' id='section_rsvp'>
+  <p>
+    <div id='form'>
+      Name <input id='name' type="text" name="name" style='width:250px' autocomplete="off"><br>
+      Email <input id='email' type="text" name="email" style='width:250px' autocomplete="off"><br>
+      Number Attending <input id='number' type="text" name="name" style='width:25px' autocomplete="off"><br><br>
+      <input type="radio" name="attending" value=true> Accepts<br>
+      <input type="radio" name="attending" value=false> Declines<br><br>
+      Would you please share one piece of advice for a successful life together?<br>
+      <textarea id='advice' rows="4"></textarea><br>
+      <p id='submit'>OK!</p>
+    </div>
+
+    <div id='thankyou'>
+    <p>Thank you!</p>
+    <img src='imgs/bubbs.jpg'/>
+    </div>
+  </p>
 
 </div>
+
 
 <div class='section' id='section_merge'>
   
@@ -45,8 +68,6 @@
     <div id='ytplayer'></div>
 </div>
 
-<!--<div class='section' id='weddingparty'>weddingparty</div>-->
-
 <div class='section' id='section_info'>
   <div class='block'>
     <b>ACCOMMODATIONS</b>
@@ -65,13 +86,6 @@
       <a href='http://doubletree.hilton.com/en/dt/groups/personalized/N/NYCBPDT-MMW-20160603/index.jhtml?WT.mc_id=POG' target='_blank'>Reserve a room!</a>
     </p>
 
-    <!--<p>
-      <b>Couchsurfing</b><br>
-      Or try couchsurfing and <a href='http://www.nytimes.com/2007/09/20/garden/20couch.html?pagewanted=all' target='_blank'>make friends with strangers</a>
-      that will let you stay for free. Not for the timid or faint of heart.<br>
-      <a href='https://www.couchsurfing.com/' target='_blank'>Surf a couch.</a>
-    </p>-->
-    
     <p>
       <b>Airbnb</b><br>
       There are often good deals on airbnb.com. Avoid anything without multiple good reviews.
@@ -116,7 +130,7 @@
     <b>FRIDAY</b>
     <p>
       7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
-      9pm..................... Hanging at some bar (TBD).
+      8pm..................... Hanging at some bar (TBD).
     </p>
   </div>
 
@@ -131,10 +145,5 @@
 
 </div>
 
-<div class='section' id='section_registry'>
-  <p>
-    Coming soon.........................................................................
-  </p>
-</div>
 
 <?php include('footer.php'); ?>
