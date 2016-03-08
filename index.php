@@ -98,7 +98,7 @@
 
   <div class='block'>
     <b>ATTIRE</b>
-    <p>Semiformal attire please.</p>
+    <p>Wear your semiformal dancing pants please.</p>
   </div>
   <div class='block'>
     <b>CEREMONY</b>
