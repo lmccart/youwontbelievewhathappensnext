@@ -70,6 +70,25 @@
 
 <div class='section' id='section_info'>
   <div class='block'>
+
+    <b>SCHEDULE</b><br><br>
+    <div class='block'>
+      <b>Friday</b>
+      <p>
+        7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
+        7pm..................... Join us for informal drinks at <a href="http://www.trinityplacenyc.com/" target="_blank">Trinity Bar</a>.
+      </p>
+    </div>
+
+    <div class='block'>
+      <b>Saturday</b>
+      <p>
+        2:30pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
+        6pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
+        Late..................... After-partying at some bar (TBD).
+      </p>
+    </div>
+
     <b>ACCOMMODATIONS</b>
 
     <p>
@@ -121,27 +140,22 @@
     <img src='imgs/3ld.jpg'/>
   </div>
 
-
 </div>
 
-<div class='section' id='section_schedule'>
-  <p>* Times are tentative, schedule to be updated closer to the date.<br><br></p>
+<div class='section' id='section_todo'>
+  <p>Kyle and Lauren's favorite spots to visit in NYC and beyond.<br><br></p>
   <div class='block'>
-    <b>FRIDAY</b>
-    <p>
-      7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
-      8pm..................... Hanging at some bar (TBD).
+    <b>ART</b>
+    <ul>
+    <li>
+      <a href="http://www.melafoundation.org/dream02.htm">Dream House</a>
+      <img src="imgs/dream.jpg"/>
+      Chill out in this light and sound installation in Soho, read more about it <a href="http://www.villagevoice.com/arts/scape-from-new-york-the-legendary-dream-house-installation-finds-a-second-home-in-chelsea-7535028" target='_blank'>here</a>.
+    </li>
+    </ul>
     </p>
   </div>
 
-  <div class='block'>
-    <b>SATURDAY</b>
-    <p>
-      2:30pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
-      6pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
-      Late..................... After-partying at some bar (TBD).
-    </p>
-  </div>
 
 </div>
 

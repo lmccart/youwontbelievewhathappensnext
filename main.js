@@ -1,5 +1,13 @@
 $(window).load(function() {
 
+  if ($(window).width() < 800) {
+    $('#section_info p').each(function() {
+      var t = $(this).html();
+      t = t.replace(/\...................../g, ' –');
+      $(this).html(t)
+    });
+  }
+
   $('#loading').hide();
 
   var hash = window.location.hash;

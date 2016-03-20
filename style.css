@@ -66,23 +66,23 @@ a:hover {
   color: black !important;
 }
 
-ul {
+ul#menu {
   border: none !important;
 }
 
-li {
+#menu li {
   margin: 0 30px;
   padding: 0 !important;
   /*border-bottom: 1px dotted #000;*/
 }
 
-li a {
+#menu li a {
   background: white !important;
   padding: 0 5px !important;
 
 }
 
-li.active a {
+#menu li.active a {
   background: yellow !important;
 }
 
@@ -139,4 +139,18 @@ textarea {
   display: table-cell;
   vertical-align: middle;
   font-size: 170%;
+}
+
+#section_todo img {
+  margin: 0.5em 0;
+}
+
+@media screen and (max-width: 800px) {
+  .section {
+    width: 90%;
+    max-width: 800px;
+  }
+  #menu li { 
+    margin: 0 0px;
+  }
 }
