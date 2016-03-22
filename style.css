@@ -145,6 +145,10 @@ textarea {
   margin: 0.5em 0;
 }
 
+#section_todo li {
+  margin-bottom: 1em;
+}
+
 @media screen and (max-width: 800px) {
   .section {
     width: 90%;
