@@ -76,7 +76,7 @@
       <b>Friday</b>
       <p>
         7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
-        7pm..................... Join us for informal drinks at <a href="http://www.trinityplacenyc.com/" target="_blank">Trinity Bar</a>.
+        7pm..................... Join us for informal drinks at <a href="http://www.trinityplacenyc.com/" target="_blank">Trinity Place</a> (115 Broadway, NYC - entrance on Cedar Street).
       </p>
     </div>
 
