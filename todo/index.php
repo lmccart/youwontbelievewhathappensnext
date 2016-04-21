@@ -39,8 +39,16 @@
       <b>ART</b>
       <ul>
       <li>
-        <a href="http://www.melafoundation.org/dream02.htm" target="_blank">Dream House</a> – chill out in this light and sound installation in Soho, read more about it <a href="http://www.villagevoice.com/arts/scape-from-new-york-the-legendary-dream-house-installation-finds-a-second-home-in-chelsea-7535028" target='_blank'>here</a>.
+        <a href="http://www.melafoundation.org/dream02.htm" target="_blank">Dream House</a> – Chill out in this light and sound installation in Soho, read more about it <a href="http://www.villagevoice.com/arts/scape-from-new-york-the-legendary-dream-house-installation-finds-a-second-home-in-chelsea-7535028" target='_blank'>here</a>.
         <img src="../imgs/dream.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.diaart.org/sites/page/52/1366">Earth Room</a> – An interior earth sculpture. 250 cubic yards of earth.
+        <img src="../imgs/earth.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.diaart.org/sites/page/52/1367">Broken Kilometer</a> – One kilometer of solid brass rod, broken. 
+        <img src="../imgs/brokenkilometer.png"/>
       </li>
       <li>The <a href="http://guggenheim.org/" target="_blank">Guggenheim Museum</a> has a nice <a href="http://www.guggenheim.org/new-york/exhibitions/upcoming/moholy-nagy-future-present" target="_blank">Moholy-Nagy</a> exhibition on view.</li>
       <li>
