@@ -77,6 +77,8 @@
       <img src="../imgs/morbid.jpg"/>
       </li>
       <li><a href="http://www.timessquarenyc.org/index.aspx" target="_blank">Times Square</a> - We can’t really say it’s one of our favorite places to visit, but the tourist in you will be deeply satiated. If you’re there, stand on the grating over the subway ventilation shaft on the pedestrian island where Broadway and Seventh Ave intersect south of 46th St to experience an experimental <a href="http://www.nytimes.com/2006/03/26/nyregion/26sound.html" target="_blank">sound art piece by Max Neuhaus</a>.
+      <img src="../imgs/grate.jpg"/>
+      </li>
       </ul>
       </p>
     </div>
