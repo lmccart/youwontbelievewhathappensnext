@@ -88,7 +88,7 @@
       <img src="../imgs/grate.jpg"/>
       </li>
       <li>
-        <a href="http://www.spuytenduyvilnyc.com/" target="_blank">Spuyten Duyvil</a> – Extensive beer list, nice backyard.
+        <a href="http://www.spuytenduyvilnyc.com/" target="_blank">Spuyten Duyvil</a> – Extensive beer list, nice backyard, and a chance to hang with real hipsters in Brooklyn.
         <img src="../imgs/spuyten.jpg"/>
       </li>
       </ul>
