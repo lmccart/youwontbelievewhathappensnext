@@ -81,11 +81,15 @@
         <a href="http://www.strandbooks.com/" target="_blank">Strand Books</a> – It’s great. It’s been around since 1927.
         <img src="../imgs/strand.jpg"/>
       </li>
-      <li><a href="http://morbidanatomymuseum.org/" target="_blank">Morbid Anatomy Museum</a> - dedicated to exploring the intersections of death, beauty, and that which falls through the cracks. (Brooklyn)
+      <li><a href="http://morbidanatomymuseum.org/" target="_blank">Morbid Anatomy Museum</a> - Dedicated to exploring the intersections of death, beauty, and that which falls through the cracks. (Brooklyn)
       <img src="../imgs/morbid.jpg"/>
       </li>
       <li><a href="http://www.timessquarenyc.org/index.aspx" target="_blank">Times Square</a> - We can’t really say it’s one of our favorite places to visit, but the tourist in you will be deeply satiated. If you’re there, stand on the grating over the subway ventilation shaft on the pedestrian island where Broadway and Seventh Ave intersect south of 46th St to experience an experimental <a href="http://www.nytimes.com/2006/03/26/nyregion/26sound.html" target="_blank">sound art piece by Max Neuhaus</a>.
       <img src="../imgs/grate.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.spuytenduyvilnyc.com/" target="_blank">Spuyten Duyvil</a> – Extensive beer list, nice backyard.
+        <img src="../imgs/spuyten.jpg"/>
       </li>
       </ul>
       </p>
@@ -106,6 +110,18 @@
       <li>
         <a href="http://anchoinyc.com/" target="_blank">An Choi</a> – Vietnamese food in the East Village, Bhan Mi, Pho noodles, cocktails.
         <img src="../imgs/anchoi.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.okonomibk.com/" target="_blank">Okonomi</a> – Japanese set meals of domestic seafood with Mottainai philosophy. Read more <a href="http://www.nytimes.com/2015/06/10/dining/hungry-city-okonomi-restaurant-williamsburg-brooklyn.html" target="_blank">here</a>.
+        <img src="../imgs/okonomi.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.okonomibk.com/" target="_blank">Okonomi</a> – Bento boxes of Japanese comfort food on a Brooklyn rooftop. Read more <a href="http://www.nytimes.com/2014/07/30/dining/hungry-city-brooklyn-ball-factory-in-east-williamsburg.html" target="_blank">here</a>.
+        <img src="../imgs/ball.jpg"/>
+      </li>
+      <li>
+        <a href="http://www.cafemogador.com/" target="_blank">Cafe Mogador</a> – Moroccan food, good for any meal.
+        <img src="../imgs/mogador.jpg"/>
       </li>
       </ul>
       </p>
