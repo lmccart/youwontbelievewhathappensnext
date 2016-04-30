@@ -52,7 +52,7 @@
       </li>
       <li>
         <a href="http://www.americandance.org/performance/yvonne-rainer-2/">The Concept of Dust</a> – Yvonne Rainer performance at <a href='http://thekitchen.org/' target='_blank'>The Kitchen</a>, running June 2-4. 
-        <img src="../imgs/dust.png"/>
+        <img src="../imgs/dust.jpg"/>
       </li>
       <li>The <a href="http://guggenheim.org/" target="_blank">Guggenheim Museum</a> has a nice <a href="http://www.guggenheim.org/new-york/exhibitions/upcoming/moholy-nagy-future-present" target="_blank">Moholy-Nagy</a> exhibition on view.</li>
       <li>
