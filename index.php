@@ -11,7 +11,7 @@
 <div class='section' id='section_rsvp'>
   <p>
     <div id='form'>
-      Name <input id='name' type="text" name="name" style='width:250px' autocomplete="off"><br>
+      Name(s) <input id='name' type="text" name="name" style='width:250px' autocomplete="off"><br>
       Email <input id='email' type="text" name="email" style='width:250px' autocomplete="off"><br>
       Number Attending <input id='number' type="text" name="name" style='width:25px' autocomplete="off"><br><br>
       <input type="radio" name="attending" value=true> Accepts<br>
