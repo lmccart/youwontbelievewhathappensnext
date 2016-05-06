@@ -75,7 +75,6 @@
     <div class='block'>
       <b>Friday</b>
       <p>
-        7am..................... <a href='http://well.blogs.nytimes.com/2013/04/02/the-roving-runner-elevating-the-jog/?_r=0' target='_blank'>Run the Highline</a> with Lauren.<br><br>
         7pm..................... Join us for informal welcome drinks at <a href="http://www.trinityplacenyc.com/" target="_blank">Trinity Place</a> (115 Broadway, NYC - entrance on Cedar Street).
       </p>
     </div>
@@ -85,7 +84,7 @@
       <p>
         2:30pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
         6pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
-        Late..................... After-partying at some bar (TBD).
+        Late..................... After-partying at <a href='http://www.themalthousefidi.com/' target='_blank'>Malt House FIDI</a>.
       </p>
     </div>
 
