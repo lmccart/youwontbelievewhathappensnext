@@ -8,7 +8,7 @@
 </div>
 
 
-<div class='section' id='section_rsvp'>
+<!--<div class='section' id='section_rsvp'>
   <p>
     <div id='form'>
       Name(s) <input id='name' type="text" name="name" style='width:250px' autocomplete="off"><br>
@@ -28,7 +28,7 @@
   </p>
 
 </div>
-
+-->
 
 <div class='section' id='section_merge'>
   
