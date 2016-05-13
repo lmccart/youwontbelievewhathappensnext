@@ -83,7 +83,7 @@
       <b>Saturday</b>
       <p>
         2:30pm..................... Ceremony at <a href='http://stmarksbowery.org' target='_blank'>St. Mark's Church-in-the-Bowery</a>.<br><br>
-        6pm..................... Reception at <a href='http://http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
+        6pm..................... Reception at <a href='http://www.3ldnyc.org' target='_blank'>3-Legged Dog Art &amp; Technology Center</a>.<br><br>
         Late..................... After-partying at <a href='http://www.themalthousefidi.com/' target='_blank'>Malt House FIDI</a> (9 Maiden Ln, NYC).
       </p>
     </div>
