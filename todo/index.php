@@ -124,7 +124,7 @@
         <img src="../imgs/okonomi.jpg"/>
       </li>
       <li>
-        <a href="http://www.okonomibk.com/" target="_blank">Okonomi</a> – Bento boxes of Japanese comfort food on a Brooklyn rooftop. Read more <a href="http://www.nytimes.com/2014/07/30/dining/hungry-city-brooklyn-ball-factory-in-east-williamsburg.html" target="_blank">here</a>.
+        <a href="http://www.nytimes.com/2014/07/30/dining/hungry-city-brooklyn-ball-factory-in-east-williamsburg.html?_r=0" target="_blank">Brooklyn Ball Factory</a> – Bento boxes of Japanese comfort food on a Brooklyn rooftop. Read more <a href="http://www.nytimes.com/2014/07/30/dining/hungry-city-brooklyn-ball-factory-in-east-williamsburg.html" target="_blank">here</a>.
         <img src="../imgs/ball.jpg"/>
       </li>
       <li>
