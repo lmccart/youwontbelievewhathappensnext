@@ -23,7 +23,7 @@
 
   <ul id='menu' class="nav nav-tabs">
     <li role="presentation" class="menuitem" id='go_home'><a href="../">K+L</a></li>
-    <li role="presentation" class="menuitem" id='go_rsvp'><a href="../#rsvp">RSVP</a></li>
+    <!--<li role="presentation" class="menuitem" id='go_rsvp'><a href="../#rsvp">RSVP</a></li>-->
     <!--<li role="presentation" class='menuitem' id='go_weddingparty'><a href="#">WEDDING PARTY</a></li>-->
     <li role="presentation" class='menuitem' id='go_info'><a href="../#info">INFO</a></li>
     <li role="presentation" class='menuitem active' id='go_todo'><a href="./">@TODO</a></li>
