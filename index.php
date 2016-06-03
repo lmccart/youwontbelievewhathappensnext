@@ -75,7 +75,6 @@
     <div class='block'>
       <b>Friday</b>
       <p>
-        6:45am..................... Run with Lauren at the best time of day! Meet at Gansevoort and Washington (near the Whitney Museum).
         7pm..................... Join us for informal welcome drinks at <a href="http://www.trinityplacenyc.com/" target="_blank">Trinity Place</a> (115 Broadway, NYC - entrance on Cedar Street).
       </p>
     </div>
